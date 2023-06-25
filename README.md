@@ -21,4 +21,4 @@ Below are the training Loss Vs Epoch and Accuracy Vs Epoch graphs:
 ![ThreeBlockVGG+DropOut](Results/ThreeBlockVGG+DropOut.png)
 To further improve accuracy we put noise in data and augmeneted images. The accuracy is 85% finally.
 Below are the training Loss Vs Epoch and Accuracy Vs Epoch graphs:
-![ThreeBlockVGG+DropOut+ImageAugmentation](Results/ThreeBlockVGG+BDropOut+ImageAugmentation.png)
+![ThreeBlockVGG+DropOut+ImageAugmentation](Results/ThreeBlockVGG+DropOut+ImageAugmentation.png)
